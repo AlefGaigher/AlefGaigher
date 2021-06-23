@@ -41,6 +41,8 @@
   <!--<img height='40' src="https://user-images.githubusercontent.com/35739995/122655475-c0e40c80-d128-11eb-9608-c8667123c1b4.png">&nbsp;-->
   <!-- Git Icon -->
   <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp;
+  <!--C# Icon-->
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </p>
 
 <table align="left">
